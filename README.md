@@ -1,4 +1,5 @@
-# 🐐 GOAT QR API
+
+# <img src="https://raw.githubusercontent.com/Raxku2/Animated-Fluent-Emojis/refs/heads/master/Emojis/Animals/Goat.png" height="40" /> GOAT QR API
 
 **GOAT QR API** is a high-performance, lightweight QR Code generation API built with **FastAPI** that generates **SVG-based QR codes** instantly.  
 Designed for speed, simplicity, and scalability — deployable anywhere, usable everywhere.
@@ -12,10 +13,7 @@ Designed for speed, simplicity, and scalability — deployable anywhere, usable 
 
 **Base URL:**  
 
-
-[https://goat-qr-api.vercel.app](https://goat-qr-api.vercel.app)
-
-
+🔗 [https://goat-qr-api.vercel.app](https://goat-qr-api.vercel.app)
 
 ---
 
@@ -188,15 +186,14 @@ This project uses a **custom proprietary license** designed to:
 * Ensure revenue sharing
 * Enable legal enforcement in India
 
-📄 **See `LICENSE.txt` for full terms**
+📄 **See `LICENSE` for full terms**
 
 ---
 
 ## 👤 Author
 
-**Pinaka**
+[**Pinaka**](https://github.com/Raxku2)
 Creator of GOAT QR API
-India 🇮🇳
 
 ---
 
@@ -205,16 +202,6 @@ India 🇮🇳
 * FastAPI Community
 * Python QRCode Maintainers
 * Open-source contributors
-
----
-
-## 🚧 Roadmap
-
-* [ ] PNG output support
-* [ ] Color customization
-* [ ] Logo-embedded QR codes
-* [ ] Rate limiting
-* [ ] API key system
 
 ---
 
